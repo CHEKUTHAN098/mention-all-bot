@@ -26,7 +26,7 @@ Commands:
 
 ```bash
 # clone the repo
-git clone https://github.com/pischule/mention-all-bot.git
+git clone https://github.com/CHEKUTHAN098/mention-all-bot
 cd mention-all-bot
 
 # set your bot token and db password
